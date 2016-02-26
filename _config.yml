@@ -1,7 +1,7 @@
 name: Keala Kim
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.18844
+layout_spectrum: 0.6484261844307184
+typography_spectrum: 0.7086746769491583
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#fffefc'
-    - '#cba68b'
-    - '#d7bea8'
-    - '#a66d62'
-    - '#b0896c'
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
   brandStrength: 0.5969785959459841
-  lightness: 1
-  saturation: 0.875
-  rhythmicContrast: 0.25
+  lightness: 0.6231825961731374
+  saturation: 0.33259037462994456
+  rhythmicContrast: 0.41845509014092386
 purpose: []
